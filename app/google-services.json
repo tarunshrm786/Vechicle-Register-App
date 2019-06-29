@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "177577513377",
+    "firebase_url": "https://reactnativedatabase-47c1f.firebaseio.com",
+    "project_id": "reactnativedatabase-47c1f",
+    "storage_bucket": "reactnativedatabase-47c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177577513377:android:415715ae65edf920",
+        "android_client_info": {
+          "package_name": "com.example.parkpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177577513377-s486v54ppaic32dv6a50chnu4t3uijdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_R-XlKIZGvIOKvPWQksjKVHs32BQgwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177577513377-s486v54ppaic32dv6a50chnu4t3uijdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177577513377:android:7dd901f932cb32da",
+        "android_client_info": {
+          "package_name": "com.example.vechcicleregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177577513377-qhnfpc4202sn1es56t0gk7pfv12cj5st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vechcicleregister",
+            "certificate_hash": "1020f0508dbc9eb4e889fb0d48c1be6e53db244c"
+          }
+        },
+        {
+          "client_id": "177577513377-s486v54ppaic32dv6a50chnu4t3uijdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_R-XlKIZGvIOKvPWQksjKVHs32BQgwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177577513377-s486v54ppaic32dv6a50chnu4t3uijdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
